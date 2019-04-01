@@ -1,6 +1,6 @@
 # 刷题笔记
-![image](https://github.com/minxin126/C_Basic/raw/master/Picture/Image1.png)
-![image](https://github.com/minxin126/C_Basic/raw/master/Picture/Image2.png)
+![image](https://github.com/minxin126/building-development-environment/raw/master/Picture/Image1.png)
+![image](https://github.com/minxin126/building-development-environment/raw/master/Picture/Image2.png)
 ```c++
 // 需要 GNU gcc 4.8版本以上来编译
 
